@@ -266,7 +266,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
-/ENRS_73_0_10_00/SLM_FW_73(SLM352)_190114/STM32F103ZE_flash.ld
 *.000
 *.lck
 *.001
